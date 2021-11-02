@@ -6,8 +6,8 @@
 ```
 As Kanye West said:
 
-> We're living the future so
-> the present is our past.
+> You may be talented, 
+> but you’re not Kanye West.
 ```
 
 
