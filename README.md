@@ -1,4 +1,4 @@
-<img src="https://cdn.cp.adobe.io/content/2/dcx/7a48c61e-9b94-425a-8dc6-7393e953baa6/rendition/preview.jpg/version/0/format/jpg/dimension/width/size/1200" >
+<img src="https://cdn.cp.adobe.io/content/2/dcx/1ae81823-898d-4633-a0a8-c61a350c87a9/rendition/preview.jpg/version/0/format/jpg/dimension/width/size/1200" >
 
 ### Welcome to my github! 👋
 #### Bio:
