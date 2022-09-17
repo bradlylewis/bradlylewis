@@ -5,17 +5,13 @@
 
 ### Welcome to my github! 👋
 #### Bio:
-~~**I'm a network analyst.**~~ I'm a software developer. I've spent the first 9 years of my adult life in Network Engineering, but I look to spend the remainder in Software Developement. The thing that drives me is my yearning desire to succeed at everything I do, whether it's something productive or something as simple as just being a good person.
+Hello and welcome! My name is Bradly, but you can call me Bradly.
+
+I'm a Full-stack Software Engineer with an emphasis on Front-end. Around June 2020, this was something I decided I wanted to do next and I'm glad I did. It has only been a positive experience! Over the next couple of years, I plan to become a coding wizard and help as many people as I can.
 
 
 
 <br>
-
-🔭 I’m currently working at ... Nexient<br>
-🌱 I’m currently learning ... JavaScript UI Libraries<br>
-👯 I’m looking to collaborate on ... Node.js & Express<br>
-💬 Ask me about ... Innovative Ideas<br>
-⚡ Fun fact: ... I do standup!
 
 <br>
 <h3 align="left">Connect with me:</h3>
