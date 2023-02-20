@@ -7,7 +7,9 @@
 #### Bio:
 Hello and welcome! My name is Bradly, but you can call me Bradly.
 
-I'm a Full-stack Software Engineer with an emphasis on Front-end. Around June 2020, this was something I decided I wanted to do next and I'm glad I did. It has only been a positive experience! Over the next couple of years, I plan to become a coding wizard and help as many people as I can.
+I have been in the Technology industry since 2015 with experience ranging from a Network Tech for Comcast, to a Systems Programmer for the State of Florida Data Center, and as of recently: a Software Engineer for NTT Data that wears many hats.
+
+What makes me different is that I'm super passionate about learning. I'm not married to one type of technology or stack, I want to learn them all and become a Polyglot. Though I love debugging and writing beautiful code, I thrive in positions where I'm able to lead and make business driving decisions. I get fulfillment by helping my team be the best they can be and making sure they know that there's nothing they can't do.
 
 
 
