@@ -1,8 +1,3 @@
-<img src="https://user-images.githubusercontent.com/83714912/143779952-43933e9a-61ff-492d-8ca9-4b97dfe3a02d.jpg"/>
-
-
-
-
 ### Welcome to my github! 👋
 My name is Bradly, but you can call me Bradly.
 
