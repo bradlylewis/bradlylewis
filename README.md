@@ -132,9 +132,16 @@ I'm a Frontend-Focused Full Stack Developer with 10+ years of experience buildin
 <br>
 
 ## 📂 Featured Projects
-- 🧑 [Portfolio Site](https://github.com/bradlylewis/my-portfolio-site) — my personal perfortolio site (React, Tailwind CSS)
-- 🎨 [Grocery List App](https://github.com/bradlylewis/grocery-list-app) — meal planning app that generates grocery lists (Next.js, Tailwind CSS AWS, Serverless)
-- 🕹️ [Game Store Clone](https://github.com/your-username/game-store-clone) — built a dynamic checkout and subscription system inspired by PlayStation Store (React, Context API, Firebase)
+
+- 🧑 [Portfolio Site](https://github.com/bradlylewis/my-portfolio-site) — personal portfolio built with modular React components and responsive Tailwind CSS design  
+  **Tech Stack:** React, Tailwind CSS
+
+- 🍳 [Recipe Planner App](https://github.com/bradlylewis/recipe-planner-app) — a full-stack meal planner that lets users create recipes, assign meals to days, and auto-generate grocery lists  
+  **Tech Stack:** Next.js, AWS (Lambda, RDS, Cognito, S3), Plain CSS + CSS Modules
+
+- 🕹️ [Game Store Clone](https://github.com/bradlylewis/ecom-gamestore) — a storefront for physical and digital games with cart and checkout flow using Stripe test integration  
+  **Tech Stack:** React, Context API, Firebase, SCSS + CSS Modules
+
 
 <br>
 <br>
