@@ -132,16 +132,15 @@ I'm a Frontend-Focused Full Stack Developer with 10+ years of experience buildin
 <br>
 
 ## 📂 Featured Projects
-
-- 🎨 [Recipe Planner](https://your-recipe-app-link.com) — meal planning app that generates grocery lists (React, Node.js, AWS)
-- 🕹️ [Game Store Clone](https://github.com/your-username/game-store-clone) — built a dynamic checkout and subscription system inspired by PlayStation Store
-- 🤖 [AI Chatbot for Customer Support](https://github.com/your-username/ai-chatbot) — GPT-powered chatbot using Nuxt.js & OpenAI API
+- 🧑 [Portfolio Site](https://github.com/bradlylewis/my-portfolio-site) — my personal perfortolio site (React, Tailwind CSS)
+- 🎨 [Grocery List App](https://github.com/bradlylewis/grocery-list-app) — meal planning app that generates grocery lists (Next.js, Tailwind CSS AWS, Serverless)
+- 🕹️ [Game Store Clone](https://github.com/your-username/game-store-clone) — built a dynamic checkout and subscription system inspired by PlayStation Store (React, Context API, Firebase)
 
 <br>
 <br>
 
 ## 🌐 Portfolio & Contact
 
-- **Portfolio:** [https://bradlylewis.github.io/bradlylewis_portfolio/](https://bradlylewis.github.io/bradlylewis_portfolio/)
+- **Portfolio:** [https://bradlylewis.github.io/bradlylewis_portfolio/](https://www.bradlylewis.net)
 - **LinkedIn:** [linkedin.com/in/bradly-lewis](https://linkedin.com/in/bradly-lewis)
 - **Email:** bradlylewisdev@gmail.com
